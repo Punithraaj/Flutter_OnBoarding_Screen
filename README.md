@@ -6,7 +6,7 @@ Create your custom and beautiful onboarding screens easily with Flutter
 
 ## [Watch it on YouTube](https://youtu.be/ZxIOeuowZgc)
 
-![Preview](U4.png)
+![Preview](U4.gif)
 
 ## Screens it contains:
 
