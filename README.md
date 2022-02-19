@@ -1,16 +1,18 @@
-# flutter_onboarding_screen
+# Flutter_Onboarding Screen
 
-A new Flutter project.
+Create a Flutter App On boarding screen in Visual Studio from scratch without using any library.
 
-## Getting Started
+Create your custom and beautiful onboarding screens easily with Flutter
 
-This project is a starting point for a Flutter application.
+## [Watch it on YouTube](https://youtu.be/ZxIOeuowZgc)
 
-A few resources to get you started if this is your first Flutter project:
+## Screens it contains:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+=> Onboarding Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Now it contains all the screen, thanks for your love and support 🙏 
+
+## Photos
+![Preview](U1.png)
+![Preview](U2.png)
+![Preview](U3.png)
